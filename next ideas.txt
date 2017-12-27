@@ -1,0 +1,3 @@
+display at what time the block is mined?
+consensus algo may be
+time gap between mininig of one block for ex 10 min( bitcoin)
